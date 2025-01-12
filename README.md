@@ -1,5 +1,5 @@
 <h1 align="center">HEY THERE!!!👋👋, I'm Neha V Kurdekar.</h1>
-<h3 align="center">A sassy WEB DEVELOPER!</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha-dev04&label=Profile%20views&color=0e75b6&style=flat" alt="neha-dev04" /> </p>
 
